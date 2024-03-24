@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first git repositary.
 <br>
-Aurthor - Neeraj
+Aurthor - Neeraj (Ninja Coding)
 
